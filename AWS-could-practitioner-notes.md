@@ -1,5 +1,7 @@
 # AWS cloud practitioner course
 
+## Cloud computing
+
 - [Types of Cloud computing ('as' services)](https://thoughtworks.udemy.com/course/aws-certified-cloud-practitioner-new/learn/lecture/20263106#overview)
 
   - ![Alt text](./Resources/as_service_modeling.png?raw=true)
@@ -29,3 +31,28 @@
   - Data transfer out of the AWS cloud
 
 - Most services in AWS are region specific
+
+## IAM policy
+
+- Policy structure
+
+  - ![Alt text](./Resources/IAM_policies_struct.png?raw=true)
+
+- Password policy
+
+  - ![Alt text](./Resources/IAM_passord_policy.png?raw=true)
+
+- Multi factor Authentication
+
+  - ![Alt text](./Resources/mfa_1.png?raw=true)
+  - ![Alt text](./Resources/mfa_2.png?raw=true)
+  - ![Alt text](./Resources/mfa_3.png?raw=true)
+
+- Shared Responsibility
+
+  - ![](./Resources/IAM_shared_responsibility.png)
+
+- IAM guidelines
+  - ![Alt text](./Resources/IAM_guidelines.png)
+- IAM summary
+  - ![Alt text](./Resources/IAM_summary.png)
