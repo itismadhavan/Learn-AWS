@@ -56,3 +56,35 @@
   - ![Alt text](./Resources/IAM_guidelines.png)
 - IAM summary
   - ![Alt text](./Resources/IAM_summary.png)
+
+## Elastic computing cloud
+
+- EC2 overview
+  - ![Alt text](./Resources/ec2_overveiw.png)
+- [EC2 instance types](https://aws.amazon.com/ec2/instance-types/)
+  - ![Alt text](./Resources/ec2_type1.png)
+  - ![Alt text](./Resources/ec2_type2.png)
+  - ![Alt text](./Resources/ec2_type3.png)
+  - ![Alt text](./Resources/ec2_type4.png)
+- Security Groups
+
+  - security groups are the way to control the network access to your EC2 instances
+  - ![Alt text](./Resources/ec2_sg1.png)
+  - ![Alt text](./Resources/ec2_sg2.png)
+  - ![Alt text](./Resources/ec2_sg3.png)
+  - ![Alt text](./Resources/ec2_sg4.png)
+  - ![Alt text](./Resources/ec2_sg5.png)
+
+- SSH into EC2 instance
+  - ![Alt text](./Resources/ssh_fromLinuxOrMac.png)
+- EC2 purchase options **_(commonly asked in exam)_**
+  - ![Alt text](./Resources/ec2_purchaseOptions.png)
+  - ![Alt text](./Resources/ec2_onDemand.png)
+  - ![Alt text](./Resources/ec2_reservedInstance.png)
+  - ![Alt text](./Resources/ec2_spotInstance.png)
+  - ![Alt text](./Resources/ec2_dedicatedHost.png)
+  - ![Alt text](./Resources/ec2_dedicatedInstance.png)
+- EC2 shared Responsibility model
+  - ![Alt text](./Resources/ec2_sharedResponsibility.png)
+- EC2 summary
+  - ![Alt text](./Resources/ec2_summary.png)
